@@ -23,14 +23,6 @@ This project randomly selects 10 sentences from a collection of 75 unique senten
 
 ---
 
-## 🛠️ Installation & Setup
-
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/Akrit22/checker.git
-   cd checker
-
----
 ## 💡 Sample Output
 ```
 Type the following 10 sentences exactly, and repeat as many times as you can in 1 minute.
